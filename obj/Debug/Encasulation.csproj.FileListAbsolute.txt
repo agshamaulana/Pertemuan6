@@ -1,0 +1,8 @@
+D:\4823\Encasulation\bin\Debug\Encasulation.exe.config
+D:\4823\Encasulation\bin\Debug\Encasulation.exe
+D:\4823\Encasulation\bin\Debug\Encasulation.pdb
+D:\4823\Encasulation\obj\Debug\Encasulation.csproj.AssemblyReference.cache
+D:\4823\Encasulation\obj\Debug\Encasulation.csproj.SuggestedBindingRedirects.cache
+D:\4823\Encasulation\obj\Debug\Encasulation.csproj.CoreCompileInputs.cache
+D:\4823\Encasulation\obj\Debug\Encasulation.exe
+D:\4823\Encasulation\obj\Debug\Encasulation.pdb
